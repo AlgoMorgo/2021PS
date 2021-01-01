@@ -13,9 +13,9 @@
 ## 🙋‍♀️ 참여자
 - 이규호 [:octocat:](https://github.com/GyuhoLee)
 - 김동근 [:octocat:](https://github.com/Kim-DongGeun)
-- 신동윤 
+- 신동윤 [:octocat:](https://github.com/khusw)
 - 김다희 [:octocat:](https://github.com/warmwhiten)
-- 김승환 
+- 김승환 [:octocat:](https://github.com/Overnap)
 
 ## 📚 스터디 기록
 
