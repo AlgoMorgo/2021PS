@@ -18,4 +18,4 @@
 | [2174 로봇 시뮬레이션](https://www.acmicpc.net/problem/2174) | 신동윤 | 이규호 |
 | [17281 ⚾](https://www.acmicpc.net/problem/17281) | 김동근 | 신동윤 |
 | [1713 후보 추천하기](https://www.acmicpc.net/problem/1713) | 김다희 | 김다희 |
-| [\[공동문제\] 0000 ㅁㅁㅁㅁ](https://www.acmicpc.net/problem/1713) | 공동 | 공동 |
+| [\[공동문제\] Valerii Against Everyone](https://codeforces.com/contest/1438/problem/B) | 공동 | 공동 |
