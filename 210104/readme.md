@@ -13,9 +13,9 @@
 
 |           문제            |               출제자          |    발표자    |           
 | :-----------------------: | :-------------------------------: | :---------------: | 
-| [2170 선긋기](https://www.acmicpc.net/problem/2170) | 이규호 | 미정 |
-| [2963 무한 이진 트리 탐색](https://www.acmicpc.net/problem/2963) | 김승환 | 미정 |
-| [2174 로봇 시뮬레이션](https://www.acmicpc.net/problem/2174) | 신동윤 | 미정 |
-| [17281 ⚾](https://www.acmicpc.net/problem/17281) | 김동근 | 미정 |
-| [1713 후보 추천하기](https://www.acmicpc.net/problem/1713) | 김다희 | 미정 |
+| [2170 선긋기](https://www.acmicpc.net/problem/2170) | 이규호 | 이규호 |
+| [2963 무한 이진 트리 탐색](https://www.acmicpc.net/problem/2963) | 김승환 | 김동근 |
+| [2174 로봇 시뮬레이션](https://www.acmicpc.net/problem/2174) | 신동윤 | 이규호 |
+| [17281 ⚾](https://www.acmicpc.net/problem/17281) | 김동근 | 신동윤 |
+| [1713 후보 추천하기](https://www.acmicpc.net/problem/1713) | 김다희 | 김다희 |
 | [\[공동문제\] 0000 ㅁㅁㅁㅁ](https://www.acmicpc.net/problem/1713) | 공동 | 공동 |
