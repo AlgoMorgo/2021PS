@@ -19,4 +19,5 @@
 | [17135 캐슬디펜스](https://www.acmicpc.net/problem/17135) | 신동윤 | 신동윤 |
 | [9252 LCS 2](https://www.acmicpc.net/problem/9252) | 김동근 | 김승환 |
 | [2436 공약수](https://www.acmicpc.net/problem/2436) | 김다희 | 김다희 |
-| [\[공동문제\] 0000 ㅁㅁㅁㅁ](https://www.acmicpc.net/problem/1713) | 공동 | 공동 |
+| [\[공동문제\] Strange List](https://codeforces.com/contest/1471/problem/B) | 공동 | 공동 |
+| [\[공동문제\] Strange Birthday Party](https://codeforces.com/contest/1471/problem/C) | 공동 | 공동 |
