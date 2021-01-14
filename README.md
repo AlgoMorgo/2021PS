@@ -11,11 +11,11 @@
 - 장소 : 온라인 (zoom 이용)
 
 ## 🙋‍♀️ 참여자
-- 이규호 [:octocat:](https://github.com/GyuhoLee)
-- 김동근 [:octocat:](https://github.com/Kim-DongGeun)
-- 신동윤 [:octocat:](https://github.com/khusw)
-- 김다희 [:octocat:](https://github.com/warmwhiten)
-- 김승환 [:octocat:](https://github.com/Overnap)
+- 이규호 [:octocat:](https://github.com/GyuhoLee) [👨🏻‍💻](https://velog.io/@gyuho)
+- 김동근 [:octocat:](https://github.com/Kim-DongGeun) [👨🏻‍💻](https://velog.io/@asdsa2134)
+- 신동윤 [:octocat:](https://github.com/khusw) [👨🏻‍💻](https://sdy-study.tistory.com/)
+- 김다희 [:octocat:](https://github.com/warmwhiten) [👩🏻‍💻](https://velog.io/@warmwhiten)
+- 김승환 [:octocat:](https://github.com/Overnap) [👨🏻‍💻](https://www.notion.so/overnap/Blog-f48dc419c06c4fc0bfb2c48f14add860)
 
 ## 📚 스터디 기록
 
