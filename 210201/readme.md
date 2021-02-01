@@ -14,11 +14,11 @@
 
 |           문제            |               출제자          |    발표자    |
 | :-----------------------: | :-------------------------------: | :---------------: |
-| [10217 KCM Travel](https://www.acmicpc.net/problem/10217) | 이규호 | 미정 |
-| [5719 거의 최단 경로](https://www.acmicpc.net/problem/5719) | 이규호 | 미정 |
-| [1328 고층 빌딩](https://www.acmicpc.net/problem/1328) | 김동근 | 미정 |
-| [1941 소문난 칠공주](https://www.acmicpc.net/problem/1941) | 김동근 | 미정 |
-| [14565 역원(Inverse) 구하기](https://www.acmicpc.net/problem/14565) | 김승환 | 미정 |
-| [18292 NM과 K (2)](https://www.acmicpc.net/problem/18292) | 김승환 | 미정 |
-| [16681 등산](https://www.acmicpc.net/problem/16681) | 신동윤 | 미정 |
-| [15961 회전 초밥](https://www.acmicpc.net/problem/15961) | 신동윤 | 미정 |
+| [10217 KCM Travel](https://www.acmicpc.net/problem/10217) | 이규호 | 김동근 |
+| [5719 거의 최단 경로](https://www.acmicpc.net/problem/5719) | 이규호 | 김승환 |
+| [1328 고층 빌딩](https://www.acmicpc.net/problem/1328) | 김동근 | 신동윤 |
+| [1941 소문난 칠공주](https://www.acmicpc.net/problem/1941) | 김동근 | 김동근 |
+| [14565 역원(Inverse) 구하기](https://www.acmicpc.net/problem/14565) | 김승환 | 김승환 |
+| [18292 NM과 K (2)](https://www.acmicpc.net/problem/18292) | 김승환 | 이규호 |
+| [16681 등산](https://www.acmicpc.net/problem/16681) | 신동윤 | 이규호 |
+| [15961 회전 초밥](https://www.acmicpc.net/problem/15961) | 신동윤 | 신동윤 |
