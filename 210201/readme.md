@@ -1,11 +1,11 @@
 ## 📅 210201
 - 진행 일정 : 2월 1일 (월) 16:00~18:00
-- 참여자 : 
+- 참여자 : 이규호, 김동근, 신동윤, 김승환
 
 
 ## ✏️ 스터디 과제
  <p align="center">
-  <img src="https://user-images.githubusercontent.com/12527673/106090788-54af3f00-616e-11eb-83f8-69ce799b0fac.png" alt="2101025"/>
+  <img src="https://user-images.githubusercontent.com/12527673/106090788-54af3f00-616e-11eb-83f8-69ce799b0fac.png" alt="210201"/>
 </p> 
 
 
