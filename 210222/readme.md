@@ -17,8 +17,8 @@
 | [1202 보석 도둑](https://www.acmicpc.net/problem/1202) | 김동근 | 신동윤 |
 | [1826 연료 채우기](https://www.acmicpc.net/problem/1826) | 김동근 | 신동윤 |
 | [1450 냅색문제](https://www.acmicpc.net/problem/1450) | 김승환 | 김동근 |
-| [10456 Travel Card](https://www.acmicpc.net/problem/10456) | 김승환 | 김동근 |
+| [10456 Travel Card](https://www.acmicpc.net/problem/10456) | 김승환 | 이규호 |
 | [3197 백조의 호수](https://www.acmicpc.net/problem/3197) | 이규호 | 김승환 |
 | [2515 전시장](https://www.acmicpc.net/problem/2515) | 이규호 | 김승환 |
-| [1022 소용돌이 예쁘게 출력하기](https://www.acmicpc.net/problem/1022) | 신동윤 | 이규호 |
+| [1022 소용돌이 예쁘게 출력하기](https://www.acmicpc.net/problem/1022) | 신동윤 | 김동근 |
 | [16120 PPAP](https://www.acmicpc.net/problem/16120) | 신동윤 | 이규호 |
