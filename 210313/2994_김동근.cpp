@@ -10,7 +10,7 @@ int visited[2][501];
 int arr[501];
 int result[501];
 int N, T;
-
+ 
 int main() {
 	cin.tie(0); cout.tie(0); ios_base::sync_with_stdio(false);
 	cin >> T >> N;
